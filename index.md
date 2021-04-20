@@ -1,5 +1,5 @@
 # William Hackett's Programming Portfolio 2020-2021
-William Hackett [Email] (mailto:williamchackett10@gmail.com)
+William Hackett [Email](mailto:williamchackett10@gmail.com)
 
 ## Processing Projects:
 
