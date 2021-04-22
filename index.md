@@ -17,6 +17,13 @@ OOP Game built in the Processing environment. October of 2020.
 
 Source code available here: [EtchASketchLink](https://github.com/WillytheBilly902/SHSProgrammingPortfolio/tree/gh-pages/src/EtchASketch)
 
+### Number Guessing Game
+OOP Game built in the Repl.it environment. February of 2021.
+
+![Image of NumberGuessingGame](https://github.com/WillytheBilly902/SHSProgrammingPortfolio/blob/gh-pages/images/NumberGuessingGame.png?raw=true)
+
+Source code available here: [NumberGuessingGameLink](https://github.com/WillytheBilly902/SHSProgrammingPortfolio/tree/gh-pages/src/NumberGuessingGame)
+
 ### SpaceGame
 OOP Game built in the Processing environment. Winter of 2020.
 
