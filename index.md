@@ -6,7 +6,7 @@ William Hackett [Email](mailto:williamchackett10@gmail.com)
 ### VolumeConverter
 Conversion app built in the Processing environment. October of 2020.
 
-![Image of VolumeConverter](https://github.com/WillytheBilly902/SHSProgrammingPortfolio/blob/gh-pages/images/VoumeConverter.png)
+![Image of VolumeConverter](https://github.com/WillytheBilly902/SHSProgrammingPortfolio/blob/gh-pages/images/VoumeConverter.png?raw=true)
 
 Source code available here: [VolumeConverterLink](https://github.com/WillytheBilly902/SHSProgrammingPortfolio/blob/gh-pages/src/VolumeConverter/TempConverter.pde)
 
