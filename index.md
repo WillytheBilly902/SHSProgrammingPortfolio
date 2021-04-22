@@ -10,6 +10,13 @@ Conversion app built in the Processing environment. October of 2020.
 
 Source code available here: [VolumeConverterLink](https://github.com/WillytheBilly902/SHSProgrammingPortfolio/blob/gh-pages/src/VolumeConverter/TempConverter.pde)
 
+### Etch-A-Sketch
+OOP Game built in the Processing environment. October of 2020.
+
+![Image of Etch-A-Sketch](https://github.com/WillytheBilly902/SHSProgrammingPortfolio/blob/gh-pages/images/EtchASketch.png?raw=true)
+
+Source code available here: [EtchASketchLink](https://github.com/WillytheBilly902/SHSProgrammingPortfolio/tree/gh-pages/src/EtchASketch)
+
 ### SpaceGame
 OOP Game built in the Processing environment. Winter of 2020.
 
